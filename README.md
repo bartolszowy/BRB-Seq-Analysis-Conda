@@ -7,6 +7,8 @@ This is the refactored BRB-Seq pipeline with:
 - SLURM dependency chaining 
 - Automated repooling calculation 
 
+## Example
+
 ## Setup (One-Time)
 
 ### 1. Build the conda environment
